@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|d:\\iic\\year 3\\semester 1\\cs6004nt_application_development\\c1\\week6\\mauiapp1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|d:\\iic\\year 3\\semester 1\\cs6004nt_application_development\\c1\\week6\\mauiapp1\\components\\pages\\todo.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|solutionrelative:components\\pages\\todo.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|d:\\iic\\year 3\\semester 1\\cs6004nt_application_development\\c1\\week6\\mauiapp1\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|solutionrelative:components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Models\\TodoItem.cs",
+              "ToolTip": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:23:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.razor",
+              "DocumentMoniker": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\Todo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Todo.razor",
+              "ToolTip": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\Todo.razor",
+              "RelativeToolTip": "Components\\Pages\\Todo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T03:17:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.razor.cs",
+              "DocumentMoniker": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\Todo.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\Todo.razor.cs",
+              "ToolTip": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\Todo.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\Todo.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T03:10:38.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
