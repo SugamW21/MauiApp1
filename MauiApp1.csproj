@@ -58,6 +58,15 @@
     </ItemGroup>
 
     <ItemGroup>
+      <AndroidResource Remove="Components\images\**" />
+      <Compile Remove="Components\images\**" />
+      <Content Remove="Components\images\**" />
+      <EmbeddedResource Remove="Components\images\**" />
+      <MauiXaml Remove="Components\images\**" />
+      <None Remove="Components\images\**" />
+    </ItemGroup>
+
+    <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.Components" Version="8.0.11" />
         <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
         <PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
