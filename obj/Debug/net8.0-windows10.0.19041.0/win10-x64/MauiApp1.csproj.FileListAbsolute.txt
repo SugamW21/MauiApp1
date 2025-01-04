@@ -97,7 +97,6 @@ D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\bin\
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.AssemblyReference.cache
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
-D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiApp1.styles.css
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiApp1.bundle.scp.css
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
@@ -210,3 +209,4 @@ D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.sourcelink.json

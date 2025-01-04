@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using static MauiApp1.Components.Layout.MainLayout;
 
 namespace MauiApp1
 {
@@ -16,9 +17,10 @@ namespace MauiApp1
 
             builder.Services.AddMauiBlazorWebView();
 
+
 #if DEBUG
-    		builder.Services.AddBlazorWebViewDeveloperTools();
-    		builder.Logging.AddDebug();
+            builder.Services.AddBlazorWebViewDeveloperTools();
+            builder.Logging.AddDebug();
 #endif
 
             return builder.Build();

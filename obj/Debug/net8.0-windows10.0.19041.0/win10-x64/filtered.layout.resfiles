@@ -1,5 +1,4 @@
 Components\Layout\MainLayout.razor.css
-Components\Layout\NavMenu.razor.css
 OpenSans-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
@@ -58,7 +57,7 @@ splashSplashScreen.scale-150.png
 splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 wwwroot\MauiApp1.styles.css
-wwwroot\MauiApp1.7k7whb7rur.bundle.scp.css
+wwwroot\MauiApp1.xs38u2lzpz.bundle.scp.css
 AboutAssets.txt
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css

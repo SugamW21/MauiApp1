@@ -1,12 +1,102 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|d:\\iic\\year 3\\semester 1\\cs6004nt_application_development\\c1\\week6\\mauiapp1\\components\\pages\\user_home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|solutionrelative:components\\pages\\user_home.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|d:\\iic\\year 3\\semester 1\\cs6004nt_application_development\\c1\\week6\\mauiapp1\\components\\pages\\user_home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|solutionrelative:components\\pages\\user_home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|d:\\iic\\year 3\\semester 1\\cs6004nt_application_development\\c1\\week6\\mauiapp1\\components\\pages\\signinpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|solutionrelative:components\\pages\\signinpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|d:\\iic\\year 3\\semester 1\\cs6004nt_application_development\\c1\\week6\\mauiapp1\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|solutionrelative:components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|d:\\iic\\year 3\\semester 1\\cs6004nt_application_development\\c1\\week6\\mauiapp1\\components\\pages\\admin_home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F688CCD1-6BED-47BD-8E17-47323BE4E2D6}|MauiApp1.csproj|solutionrelative:components\\pages\\admin_home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 100,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SigninPage.razor",
+              "DocumentMoniker": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\SigninPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\SigninPage.razor",
+              "ToolTip": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\SigninPage.razor",
+              "RelativeToolTip": "Components\\Pages\\SigninPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T08:36:17.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_Home.razor.cs",
+              "DocumentMoniker": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\User_Home.razor.cs",
+              "RelativeDocumentMoniker": "Components\\Pages\\User_Home.razor.cs",
+              "ToolTip": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\User_Home.razor.cs",
+              "RelativeToolTip": "Components\\Pages\\User_Home.razor.cs",
+              "ViewState": "AgIAAO8CAAAAAAAAAAAAAPkCAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T08:35:43.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User_Home.razor",
+              "DocumentMoniker": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\User_Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\User_Home.razor",
+              "ToolTip": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\User_Home.razor",
+              "RelativeToolTip": "Components\\Pages\\User_Home.razor",
+              "ViewState": "AgIAAKUDAAAAAAAAAAAAAKgDAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T06:49:32.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login.razor",
+              "ToolTip": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "Components\\Pages\\Login.razor",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T06:49:27.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin_Home.razor",
+              "DocumentMoniker": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\Admin_Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Admin_Home.razor",
+              "ToolTip": "D:\\IIC\\Year 3\\SEMESTER 1\\CS6004NT_Application_Development\\C1\\week6\\MauiApp1\\Components\\Pages\\Admin_Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Admin_Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T06:49:18.988Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

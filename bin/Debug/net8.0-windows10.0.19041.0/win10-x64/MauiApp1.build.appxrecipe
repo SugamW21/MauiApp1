@@ -509,13 +509,10 @@
       <PackagePath>wwwroot\MauiApp1.styles.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiApp1.bundle.scp.css">
-      <PackagePath>wwwroot\MauiApp1.7k7whb7rur.bundle.scp.css</PackagePath>
+      <PackagePath>wwwroot\MauiApp1.xs38u2lzpz.bundle.scp.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\Components\Layout\NavMenu.razor.css">
-      <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

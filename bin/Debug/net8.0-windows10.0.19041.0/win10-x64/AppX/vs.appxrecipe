@@ -30,25 +30,25 @@
     <AppXManifest Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-15T03:32:27.639</Modified>
+      <Modified>2025-01-04T02:07:03.143</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-15T03:32:27.499</Modified>
+      <Modified>2025-01-03T04:50:28.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.runtimeconfig.json">
       <PackagePath>MauiApp1.runtimeconfig.json</PackagePath>
-      <Modified>2024-12-15T03:09:56.223</Modified>
+      <Modified>2024-12-26T10:46:12.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.dll">
       <PackagePath>MauiApp1.dll</PackagePath>
-      <Modified>2024-12-15T03:32:27.197</Modified>
+      <Modified>2025-01-04T02:07:02.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp1.exe</PackagePath>
-      <Modified>2024-12-15T03:32:27.201</Modified>
+      <Modified>2025-01-04T02:07:02.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -304,7 +304,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp1.deps.json">
       <PackagePath>MauiApp1.deps.json</PackagePath>
-      <Modified>2024-12-15T03:32:27.424</Modified>
+      <Modified>2025-01-03T04:50:27.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -660,7 +660,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.endpoints.json">
       <PackagePath>MauiApp1.staticwebassets.endpoints.json</PackagePath>
-      <Modified>2024-12-08T04:07:50.895</Modified>
+      <Modified>2025-01-03T03:48:34.917</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ASUS\.nuget\packages\microsoft.maui.controls.compatibility\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -676,19 +676,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiApp1.styles.css">
       <PackagePath>wwwroot\MauiApp1.styles.css</PackagePath>
-      <Modified>2024-12-08T02:31:53.509</Modified>
+      <Modified>2025-01-03T03:48:00.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiApp1.bundle.scp.css">
-      <PackagePath>wwwroot\MauiApp1.7k7whb7rur.bundle.scp.css</PackagePath>
-      <Modified>2024-12-08T02:31:53.509</Modified>
+      <PackagePath>wwwroot\MauiApp1.xs38u2lzpz.bundle.scp.css</PackagePath>
+      <Modified>2025-01-03T03:48:00.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\Components\Layout\MainLayout.razor.css">
       <PackagePath>Components\Layout\MainLayout.razor.css</PackagePath>
-      <Modified>2024-12-08T02:31:34.470</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\IIC\Year 3\SEMESTER 1\CS6004NT_Application_Development\C1\week6\MauiApp1\Components\Layout\NavMenu.razor.css">
-      <PackagePath>Components\Layout\NavMenu.razor.css</PackagePath>
-      <Modified>2024-12-08T02:31:34.470</Modified>
+      <Modified>2025-01-03T02:27:08.045</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
